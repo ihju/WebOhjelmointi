@@ -1,0 +1,95 @@
+.top-menu1 {
+    width: auto;
+    background-color: rgb(28, 178, 224);
+    height: auto;
+    position:sticky;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    gap: 2px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 12px;
+}
+
+.topmenu-item {
+    color: white;
+    font-size: flex;
+    margin: 20px;
+}
+.topleftmenu-item {
+    display: flex;
+    position: absolute;
+    left: 5px;
+    
+}
+
+.oikeaPalkki {
+    width: 20%;
+    background-color: rgb(198, 218, 223);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    float:right;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 5px;
+}
+
+.menu-item {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content:center;
+    margin: 50px;
+}
+
+.alempiPalkki
+{
+    width: auto;
+    background-color: rgb(28, 199, 170);
+    height: 50px;
+    position:inherit;
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+
+.toptop-menu
+{
+    width: auto;
+    background-color: rgb(27, 24, 200);
+    height: 70px;
+    position:sticky;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px; 
+    
+}
+
+.Sisältö
+{
+    width: auto;
+    background-color: rgb(235, 227, 214);
+    display: flex;
+    flex-flow: wrap;
+    height: auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 12px;
+}
+.Tausta
+{
+    background-color: rgba(232, 235, 198, 0.986);
+    height: 900px;
+}
