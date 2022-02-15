@@ -32,12 +32,12 @@ const App = () => {
   return (
     <div>
       <Title />
-      <div>
-        <div>maito {maito} litraa</div>
-        <div>leipa {leipa} pussia</div>
-        <div>kahvi {kahvi} pakettia</div>
-        <div>makkara {makkara} pakettia</div> 
-      </div>
+      <Lista 
+        maito={maito}
+        leipa = {leipa}
+        kahvi = {kahvi}
+        makkara = {makkara}
+        />
       <Button handleClick={handleMaitoClick}
       text = 'maito' />
       <Button handleClick={handleLeipaClick}
@@ -55,3 +55,10 @@ export default App
 /*<Lista lista = {maito, leipa, kahvi, makkara}/> 
 
 en saanu noita äkkiseltään nätisti toiseen komponenttiin, joka tulostais nuo arvot*/
+
+/* <div>
+        <div>maito {maito} litraa</div>
+        <div>leipa {leipa} pussia</div>
+        <div>kahvi {kahvi} pakettia</div>
+        <div>makkara {makkara} pakettia</div> 
+      </div>*/ 
