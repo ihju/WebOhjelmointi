@@ -7,6 +7,7 @@ const Alku = () => {
       <li>vihannes</li>
       <li>maitotuote</li>
       <li>siivous</li>
+      <li>kala</li>
 
       <p>Filtteröi tavarat kirjoittamalla haluamasi tuotteen kategoria tyhjään kenttään ja paina nappia</p>
     </div>

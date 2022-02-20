@@ -1,0 +1,67 @@
+
+[
+    {
+      "id": 1,
+      "kuva": "src/kuvat/Jugurtti.jpg",
+      "nimi": "Kurkku",
+      "hinta": "2 €/kg",
+      "ryhma": "vihannes",
+      "varastossa": "paljon"
+    },
+    {
+      "id": 2,
+      "kuva": "/kuvat/Tomaatti.jpg",
+      "nimi": "Tomaatti",
+      "hinta": "1.5 €/kg",
+      "ryhma": "vihannes",
+      "varastossa": "loppunut"
+    },
+    {
+      "id": 3,
+      "kuva":"kuvat/Anjovis.jpg" ,
+      "nimi": "Anjovis",
+      "hinta": "5 €/kg",
+      "ryhma": "kala",
+      "varastossa": "vähän"
+    },
+    {
+      "id": 4,
+      "kuva": "/kuvat/Omena.jpg",
+      "nimi": "Omena",
+      "hinta": "1 €/kg",
+      "ryhma": "hedelmä",
+      "varastossa": "hieman"
+    },
+    {
+      "id": 5,
+      "kuva": "/kuvat/Avokado.jpg",
+      "nimi": "Avokado",
+      "hinta": "2 €/kg",
+      "ryhma": "hedelmä",
+      "varastossa": "yksi kpl"
+    },
+    {
+      "id": 6,
+      "kuva": "/kuvat/Maito.jpg",
+      "nimi": "Maito",
+      "hinta": "1 €/l",
+      "ryhma": "maitotuote",
+      "varastossa": "litroittain"
+    },
+    {
+      "id": 7,
+      "kuva": "/kuvat/Jugurtti.jpg",
+      "nimi": "Jugurtti",
+      "hinta": "1,2 €/l",
+      "ryhma": "maitotuote",
+      "varastossa": "paljon"
+    },
+    {
+      "id": 8,
+      "kuva": "/kuvat/Imuri.jpg",
+      "nimi": "Imuri",
+      "hinta": "200 €",
+      "ryhma": "siivous",
+      "varastossa": "ehkä"
+    }
+  ]
